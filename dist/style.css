@@ -11,6 +11,7 @@ body{
 }
 
 .head {
+	margin-top: 1%;
 	display: block;
 	margin-left: 2%;
   width: 20%;
@@ -91,4 +92,17 @@ body{
 
 #section1{
 	background-image: url("C:/Users/Reckers/Desktop/Scorpio/img/white.jpg");
+}
+
+.navpoint{
+	position: absolute;
+}
+
+#about{
+	background-image: url("C:/Users/Reckers/Desktop/Scorpio/img/blue.png");
+	min-height: 50vh;
+	padding: 0;
+	position: relative;
+    overflow: hidden;
+    margin: 0;
 }
