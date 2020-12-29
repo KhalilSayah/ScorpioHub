@@ -1,0 +1,94 @@
+body{
+	margin: 0;
+}
+#main{
+	background-image: url("C:/Users/Reckers/Desktop/Scorpio/img/back.png");
+	min-height: 100vh;
+	padding: 0;
+	position: relative;
+    overflow: hidden;
+    margin: 0;
+}
+
+.head {
+	display: block;
+	margin-left: 2%;
+  width: 20%;
+}
+.welcome {
+	display: block;
+	margin-top: 10%;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.boton {
+	display: block;
+	margin-top: 0%;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+.socials1 {
+	display: block;
+	margin-top: -13%;
+  margin-left: 97%;
+  margin-right: auto;
+  
+}
+.socials2 {
+	display: block;
+	margin-top: 1%;
+  margin-left: 97%;
+  margin-right: auto;
+  
+}
+.socials3 {
+	display: block;
+	margin-top: 1%;
+  margin-left: 97%;
+  margin-right: auto;
+  
+}
+.socials4 {
+	display: block;
+	margin-top: 1%;
+  margin-left: 97%;
+  margin-right: auto;
+  
+}
+.socialbar {
+	display: block;
+	margin-top: 1%;
+  margin-left: 97.7%;
+  margin-right: auto;
+  
+}
+.eclipse1{
+	display: block;
+	margin-top: -13%;
+	margin-left: 1%;
+	width: 1%;
+}
+.eclipse2{
+	display: block;
+	margin-top: 1%;
+	margin-left: 1%;
+	width: 1%;
+}
+.eclipse3{
+	display: block;
+	margin-top: 1%;
+	margin-left: 1%;
+	width: 1%;
+}
+.eclipse4{
+	display: block;
+	margin-top: 1%;
+	margin-left: 1%;
+	width: 1%;
+}
+
+#section1{
+	background-image: url("C:/Users/Reckers/Desktop/Scorpio/img/white.jpg");
+}
